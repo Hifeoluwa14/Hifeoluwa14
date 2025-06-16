@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hifeoluwa14
 - 👀 I’m interested in improving my SQL and Python Skill.
-- 🌱 I’m currently learning Python...
-- 💞️ I’m looking to collaborate on SQL Projects
+- 💞️ I’m looking to collaborate on SQL and Python Projects
 - 📫 How to reach me : Still working on that
 - - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love problems 😄
