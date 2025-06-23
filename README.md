@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on SQL and Python Projects
 - 📫 How to reach me : Still working on that
 - - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love problems 😄
+- ⚡ Fun fact: I love problem-solving 😄
 
 <!---
 Hifeoluwa14/Hifeoluwa14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
